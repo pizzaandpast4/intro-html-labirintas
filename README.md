@@ -1,1 +1,1 @@
-# Dizajno projektas
+# Dizajno projektas LABIRINTAS
