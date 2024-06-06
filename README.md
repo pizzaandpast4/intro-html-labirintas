@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational purposes only. Pull requests are welcome, priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/50-grupe-labirintas/
+Site published at: https://pizzaandpast4.github.io/intro-html-labirintas/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
@@ -66,7 +66,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+[Github](https://github.com/pizzaandpast4)
 
 ## ⚠️ License
 
